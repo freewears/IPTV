@@ -1,9 +1,33 @@
 #EXTINF:-1 tvg-id="" tvg-name="CBC News Network", https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC TV Quebec",  https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC TV Ontario", https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Calgary", https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Charlottetown", https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Edmonton", https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Fredericton", https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Halifax", https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Montreal", https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Ottawa", https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Regina", https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC St Johns", https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Toronto", https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Vancouver", https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Windsor", https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Winnipeg", https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Yellowknife", https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ICI RDI News", https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ICI Tele Montreal", https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ICI Tele Quebec", https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Acadie", https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Alberta", https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Yukon", https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Est-Quebec", https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Estrie", https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Manitoba", https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Mauricie", https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Ontario", https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Ottawa-Gatineau", https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Saguenay", https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Saskatchewan", https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele V", https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Global TV halifax", https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Global TV Toronto", https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shopping", http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
