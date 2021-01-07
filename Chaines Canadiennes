@@ -1,0 +1,9 @@
+#EXTINF:-1 tvg-id="" tvg-name="CBC News Network", https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC TV Quebec",  https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC TV Ontario", https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI RDI News", https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Montreal", https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Quebec", https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele V", https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global TV halifax", https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global TV Toronto", https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
