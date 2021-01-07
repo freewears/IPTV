@@ -17,7 +17,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="CBC Yellowknife", https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ICI RDI News", https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ICI Tele Montreal", https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ICI Tele Quebec", https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ICI Tele Acadie", https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ICI Tele Alberta", https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ICI Tele Yukon", https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
